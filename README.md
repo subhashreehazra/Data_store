@@ -22,5 +22,5 @@ The data store will also support the following **non-functional requirements**
   
   **OUTPUT**
   
-  !https://github.com/subhashreehazra/Data_store/blob/main/output.png
+  ! https://github.com/subhashreehazra/Data_store/blob/main/output.png
 
