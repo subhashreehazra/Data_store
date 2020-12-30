@@ -19,3 +19,7 @@ The data store will also support the following **non-functional requirements**
   - More than one client process cannot be allowed to use the same file as a data store at any given time.
   - A client process is allowed to access the data using multiple threads, if it desires to. The data store must therefore be thread safe.
   - The client will bear as little memory  costs as possible to use the data store, while deriving maximum performance with respect to the response times for accessing the data store.
+  
+  **OUTPUT**
+  ![alt text](https://github.com/subhashreehazra/Data_store/blob/master/output.jpg?raw=true)
+
