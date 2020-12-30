@@ -21,5 +21,5 @@ The data store will also support the following **non-functional requirements**
   - The client will bear as little memory  costs as possible to use the data store, while deriving maximum performance with respect to the response times for accessing the data store.
   
   **OUTPUT**
-  ![alt text]https://github.com/subhashreehazra/Data_store/blob/main/output.png
+  !https://github.com/subhashreehazra/Data_store/blob/main/output.png
 
